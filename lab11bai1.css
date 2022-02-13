@@ -1,0 +1,9 @@
+.bang{
+    border-collapse: collapse;
+    width: 100%;
+}
+.bang th, .bang td{
+    border: 2px solid rgb(109, 151, 46);
+}
+
+    
